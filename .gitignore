@@ -1,0 +1,21 @@
+# „Ã·œ«  «·»‰«¡
+out/
+CMakeFiles/
+CMakeCache.txt
+*.dir
+
+# „·›«  Visual Studio
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.pdb
+
+# „·›«  JetBrains (CLion)
+.idea/
+*.iml
+cmake-build-*/
+
+# «·„·›«  «·„ƒﬁ … ·‰Ÿ«„ «· ‘€Ì·
+.DS_Store
+*~
